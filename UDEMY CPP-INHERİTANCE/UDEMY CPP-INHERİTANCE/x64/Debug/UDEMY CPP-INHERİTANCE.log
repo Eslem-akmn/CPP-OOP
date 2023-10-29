@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (UDEMY CPP-INHERİTANCE.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Dog.cpp
+  Main.cpp
+  Kod Üretiliyor...
+  UDEMY CPP-INHERİTANCE.vcxproj -> C:\Users\ESLEM\source\repos\UDEMY CPP-INHERİTANCE\x64\Debug\UDEMY CPP-INHERITANCE.exe
